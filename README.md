@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NarcisTeodorPurghel
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning ASP.NET REST API'S
 - 📫 How to reach me 
 
 <!---
